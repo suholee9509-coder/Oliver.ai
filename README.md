@@ -1,4 +1,4 @@
-# Oliver — Intent Kit
+# Oliver
 
 > **Keeping humans thinking in the age of AI.**
 > Open-source UI building blocks from Oliver — an interaction layer that answers first, then hands the thinking back to you.
